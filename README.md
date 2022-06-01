@@ -17,14 +17,10 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="600" height="400" />
-</div>
-
 ---
 
 ### About Me:
-I'm a Full Stack Developer <img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="60" /> from Brazil.
+I'm a Full Stack Developer from Brazil.
 
 - 🔭 I'm working as a Web Developer, contributing with both frontend and backend.
 - 🌱 Exploring 3D Modeling grounds.
@@ -51,6 +47,6 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/gFmkpNCar7TSo
 
 ### Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schmidtdev&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmidtdev&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtdev&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
