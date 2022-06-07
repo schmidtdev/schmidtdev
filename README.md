@@ -19,13 +19,10 @@
 
 ---
 
-### $ Whoami:
-I'm a Full Stack Developer from Brazil.
+### !Stats :
 
-- 🔭 I'm working as a Web Developer, contributing with both frontend and backend.
-- 🌱 Exploring 3D Modeling grounds.
-- ⚡I like to play some videogame on my free time.
-- 👨‍👦 I'm also Levi's father.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmidtdev&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtdev&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -42,11 +39,3 @@ I'm a Full Stack Developer from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
 </div>
-
----
-
-### !Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmidtdev&theme=vue-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtdev&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
