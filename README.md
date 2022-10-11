@@ -21,8 +21,14 @@
 
 ### !Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmidtdev&theme=vue-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtdev&theme=vue-dark)](https://github.com/schmidtdev/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=schmidtdev&theme=vue-dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtdev&theme=vue-dark&layout=compact" />
+  </a>
+</div>
 
 ---
 
